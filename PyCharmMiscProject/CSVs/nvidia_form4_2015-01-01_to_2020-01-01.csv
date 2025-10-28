@@ -1,0 +1,84 @@
+officer_name,officer_title,transaction_code,transaction_type,transaction_date,shares,price_per_share,security_title
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2019-12-23,8929,239.07,Common
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2019-12-23,13471,240.01,Common
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2019-12-23,1600,240.78,Common
+BURGESS ROBERT K,,M,BUY,2019-12-18,8000,14.48,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-18,2281,229.9672,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-18,5288,230.9695,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-18,431,231.5097,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",G,SELL,2019-12-13,50305,0,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",G,SELL,2019-12-13,50305,0,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",G,SELL,2019-12-13,51371,0,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",G,SELL,2019-12-13,51371,0,Common Stock
+SEAWELL A BROOKE,,S,SELL,2019-12-13,963,225.85,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",F,BUY,2019-12-11,2351,217.34,Common Stock
+Shoquist Debora,"EVP, Operations",F,BUY,2019-12-11,1663,217.34,Common Stock
+Teter Tim,"EVP, General Counsel and Sec",F,BUY,2019-12-11,1853,217.34,Common Stock
+Kress Colette,EVP & Chief Financial Officer,F,BUY,2019-12-11,2280,217.34,Common
+HUANG JEN HSUN,President and CEO,F,BUY,2019-12-11,4002,217.34,Common Stock
+HUDSON DAWN E,,M,BUY,2019-12-03,2000,14.70,Common
+HUDSON DAWN E,,S,SELL,2019-12-03,2000,201.87,Common
+BURGESS ROBERT K,,S,SELL,2019-12-03,100,200.90,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-03,500,201.99,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-03,400,203.45,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-03,1200,204.55,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-03,1000,205.68,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-03,400,206.64,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-03,400,207.56,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-04,1400,209.15,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-04,1550,209.87,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-04,950,210.83,Common Stock
+BURGESS ROBERT K,,S,SELL,2019-12-04,100,211.60,Common Stock
+Shoquist Debora,"EVP, Operations",S,SELL,2019-11-25,10424,215.90,Common Stock
+Shoquist Debora,"EVP, Operations",S,SELL,2019-11-25,1769,216.87,Common Stock
+SEAWELL A BROOKE,,S,SELL,2019-11-26,629,220.50,Common Stock
+SEAWELL A BROOKE,,M,BUY,2019-11-18,20000,14.63,Common Stock
+SEAWELL A BROOKE,,S,SELL,2019-11-18,20000,212.75,Common Stock
+Teter Tim,"EVP, General Counsel and Sec",F,BUY,2019-09-18,1967,179.98,Common Stock
+Shoquist Debora,"EVP, Operations",F,BUY,2019-09-18,8517,179.98,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",F,BUY,2019-09-18,12816,179.98,Common Stock
+Kress Colette,EVP & Chief Financial Officer,F,BUY,2019-09-18,11976,179.98,Common
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2019-09-19,12171,177.4799,Common
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2019-09-19,19186,179.98,Common
+HUANG JEN HSUN,President and CEO,F,BUY,2019-09-18,21665,179.98,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-09-19,45935,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-09-20,91870,0,Common Stock
+Drell Persis,,S,SELL,2019-09-16,165,180.4544,Common Stock
+GAITHER JAMES C,,S,SELL,2019-09-10,10000.0000,182.3714,Common
+MCCAFFERY MICHAEL G,,S,SELL,2019-08-29,2361,166.0021,Common Stock
+MCCAFFERY MICHAEL G,,S,SELL,2019-08-26,6213,165.1407,Common Stock
+MCCAFFERY MICHAEL G,,S,SELL,2019-08-27,8787,166.5588,Common Stock
+HUDSON DAWN E,,M,BUY,2019-08-22,5000,14.70,Common
+HUDSON DAWN E,,S,SELL,2019-08-22,5000,171.7342,Common
+Drell Persis,,S,SELL,2019-08-19,2500,167.3552,Common Stock
+Drell Persis,,S,SELL,2019-07-15,2500,166.7988,Common Stock
+Robertson Donald F Jr,Principal Accounting Officer,A,BUY,2019-07-10,15000,0,Common Stock
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2019-06-28,2236,164.013,Common
+HUANG JEN HSUN,President and CEO,F,BUY,2019-06-19,4002,153.12,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-04-04,54675,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-04-04,8344,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-04-04,54675,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-04-04,8344,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-04-04,126038,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-05-24,625975,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-05-24,625975,0,Common Stock
+HUANG JEN HSUN,President and CEO,G,SELL,2019-05-24,1251950,0,Common Stock
+Teter Tim,"EVP, General Counsel and Sec",F,BUY,2019-06-19,1815,153.12,Common Stock
+Shoquist Debora,"EVP, Operations",F,BUY,2019-06-19,1610,153.12,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",F,BUY,2019-06-19,2273,153.12,Common Stock
+Kress Colette,EVP & Chief Financial Officer,F,BUY,2019-06-19,2205,153.12,Common
+JONES HARVEY C,,S,SELL,2019-06-17,100000,145.0992,Common Stock
+STEVENS MARK A,,A,BUY,2019-05-23,1258,0,Common Stock
+SEAWELL A BROOKE,,A,BUY,2019-05-23,1258,0,Common Stock
+PERRY MARK L,,A,BUY,2019-05-23,1258,0,Common Stock
+Neal Stephen C,,A,BUY,2019-05-23,1258,0,Common Stock
+MCCAFFERY MICHAEL G,,A,BUY,2019-05-23,1258,0,Common Stock
+JONES HARVEY C,,A,BUY,2019-05-23,1258,0,Common Stock
+HUDSON DAWN E,,A,BUY,2019-05-23,1258,0,Common
+Drell Persis,,A,BUY,2019-05-23,1258,0,Common Stock
+BURGESS ROBERT K,,A,BUY,2019-05-23,1258,0,Common Stock
+COXE TENCH,,A,BUY,2019-05-23,1258.0000,0.0000,Common
+GAITHER JAMES C,,A,BUY,2019-05-23,1258.0000,0.0000,Common
+Neal Stephen C,,A,BUY,2019-04-08,139,0,Common Stock
+Neal Stephen C,,A,BUY,2019-04-08,1419,0,Common Stock
+Shoquist Debora,"EVP, Operations",S,SELL,2019-04-03,5823,185,Common Stock

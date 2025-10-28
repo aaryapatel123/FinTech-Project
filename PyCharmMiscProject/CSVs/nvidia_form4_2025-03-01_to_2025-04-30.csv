@@ -1,0 +1,35 @@
+officer_name,officer_title,transaction_code,transaction_type,transaction_date,shares,price_per_share,security_title
+Robertson Donald F Jr,Principal Accounting Officer,S,SELL,2025-03-21,1900,116.3079,Common Stock
+Robertson Donald F Jr,Principal Accounting Officer,S,SELL,2025-03-21,2300,117.0735,Common Stock
+Robertson Donald F Jr,Principal Accounting Officer,S,SELL,2025-03-21,300,117.77,Common Stock
+Robertson Donald F Jr,Principal Accounting Officer,F,BUY,2025-03-19,5689,115.43,Common Stock
+Shah Aarti S.,,S,SELL,2025-03-20,2300,116.9924,Common
+Shah Aarti S.,,S,SELL,2025-03-20,9224,118.3643,Common
+Shah Aarti S.,,S,SELL,2025-03-20,8476,118.8653,Common
+Kress Colette,EVP & Chief Financial Officer,F,BUY,2025-03-19,103965,115.43,Common
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2025-03-21,22950,116.2502,Common
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2025-03-21,39963,117.0837,Common
+Kress Colette,EVP & Chief Financial Officer,S,SELL,2025-03-21,3747,117.7035,Common
+Shoquist Debora,"EVP, Operations",F,BUY,2025-03-19,85427,115.43,Common Stock
+Shoquist Debora,"EVP, Operations",G,SELL,2025-03-21,42000,0,Common Stock
+Teter Timothy S.,"EVP, General Counsel and Sec",F,BUY,2025-03-19,87218,115.43,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",F,BUY,2025-03-19,94200,115.43,Common Stock
+HUANG JEN HSUN,President and CEO,F,BUY,2025-03-19,431611,115.43,Common Stock
+BURGESS ROBERT K,,S,SELL,2025-03-13,53324,115.4903,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",A,BUY,2025-03-10,55559,0,Common Stock
+Teter Timothy S.,"EVP, General Counsel and Sec",A,BUY,2025-03-10,57489,0,Common Stock
+Kress Colette,EVP & Chief Financial Officer,A,BUY,2025-03-10,57106,0,Common
+Robertson Donald F Jr,Principal Accounting Officer,A,BUY,2025-03-10,8489,0,Common Stock
+Shoquist Debora,"EVP, Operations",A,BUY,2025-03-10,57489,0,Common Stock
+Dabiri John,,S,SELL,2025-03-10,2663,110,Common
+Puri Ajay K,"EVP, Worldwide Field Ops",A,BUY,2025-03-03,93020,0,Common Stock
+Puri Ajay K,"EVP, Worldwide Field Ops",A,BUY,2025-03-03,42220,0,Common Stock
+Teter Timothy S.,"EVP, General Counsel and Sec",A,BUY,2025-03-03,86080,0,Common Stock
+Teter Timothy S.,"EVP, General Counsel and Sec",A,BUY,2025-03-03,36140,0,Common Stock
+HUANG JEN HSUN,President and CEO,A,BUY,2025-03-03,286350,0,Common Stock
+HUANG JEN HSUN,President and CEO,A,BUY,2025-03-03,670130,0,Common Stock
+Shoquist Debora,"EVP, Operations",A,BUY,2025-03-03,86080,0,Common Stock
+Shoquist Debora,"EVP, Operations",A,BUY,2025-03-03,36140,0,Common Stock
+Kress Colette,EVP & Chief Financial Officer,A,BUY,2025-03-03,95780,0,Common
+Kress Colette,EVP & Chief Financial Officer,A,BUY,2025-03-03,43860,0,Common
+Kress Colette,EVP & Chief Financial Officer,G,SELL,2025-02-28,64080,0,Common
